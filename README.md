@@ -1,4 +1,4 @@
-# Codetivation
+# $${\color{red}Codetivation}$$
 
 A coding game with cultivation (wuxia) aspects
 
